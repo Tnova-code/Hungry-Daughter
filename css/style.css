@@ -1,0 +1,119 @@
+/*common start*/
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+}
+
+/*common end*/
+
+/*header start*/
+header{
+	background-color: white;
+	margin-bottom: 45px;
+	
+}
+.c_nav{}
+.logo{
+	width: 200px;
+}
+.menu ul li a{
+	
+	font-size: 16px;
+    line-height: 24px;
+    color: #000000 !important;
+    padding: 0 10px !important;
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+.btn_common{
+	background-color: #22b14c;
+    border-radius: 33px;
+    align-items: center; 
+    font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: black;
+}
+.btn_header{
+	 margin-left: 5px;
+	 width: 130px;
+	 height: 35px;
+	 padding: 0 25px;
+}
+.btn_common:hover{
+	background-color: #FD511A !important;
+
+}
+
+.drop{
+	
+}
+
+/*header end*/
+
+.carousel-item{
+	width: 100%;
+	height: 30%;
+}
+.card{
+	background-color: #fbde98;
+	margin: 120px;
+
+}
+.card_h{	
+	margin: 20px 20px;
+
+}
+
+
+
+.bar_h{
+	color: #22b14c;
+	margin: 20px 20px;
+}
+.progress{
+	margin-top: 20px;
+	height: 25px;
+}
+
+/*test start*/
+.test{
+	margin-top: 70px;
+	background-image: url(../images/test.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	min-height: 900px;
+}
+.test_content{
+	padding-left: 920px;
+	padding-top: 50px;
+	color: white;
+	text-align: right;
+}
+
+
+
+
+
+
+/*test end*/
+/*footer start*/
+footer{
+	background-color: #fbde98;
+	padding: 7px 0;
+}
+.foot{
+	text-align: right;
+}
+
+/*footer end*/
+
+
+
+
